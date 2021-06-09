@@ -4,3 +4,14 @@
     justify-content: center;
     padding: 100px;
 }
+
+#click {
+    font-family: 'Roboto', sans-serif;
+    padding: 100px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1976d2;
+  }
+  
