@@ -60,7 +60,7 @@ let id_global;
 
 var client_id = "ce055013e8034e8a85053bab3f3cacbc";
 var client_secret = "0bcf07503bc64f9c829d3440da5bc6cc";
-var redirect_uri = "https://spotify-backend-396.herokuapp.com/callback/";
+var redirect_uri = "http://spotify-backend-396.herokuapp.com/callback/";
 
 let user_id = "";
 
