@@ -57,6 +57,9 @@ const env = "" + process.env.NODE_ENV;
 // var client_id = env.REACT_APP_CLIENT_ID; // Your client id
 // var client_secret = env.REACT_APP_CLIENT_SECRET; // Your secret
 // var redirect_uri = env.REACT_APP_REDIRECT_URI; // Your redirect uri
+var client_id = "ce055013e8034e8a85053bab3f3cacbc";
+var client_secret = "0bcf07503bc64f9c829d3440da5bc6cc";
+var redirect_uri = "http://localhost:8888/callback";
 
 
 let user_id = "";
